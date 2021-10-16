@@ -1,5 +1,5 @@
 <?php
-	class Resolver implements IResolver
+	class NewResolver implements IResolver
 	{
 		public function resolve($data): IAdapter
 		{
