@@ -1,0 +1,5 @@
+services:
+    IProvider: OldProvider
+    IResolver: OldResolver
+
+entry: Main.run
