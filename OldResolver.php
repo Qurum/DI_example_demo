@@ -1,5 +1,5 @@
 <?php
-	class Resolver
+	class OldResolver
 	{
 		public function resolve($data): IAdapter
 		{
