@@ -1,6 +1,6 @@
 <?php
 
-class JSONAdapter implements IAdapter
+class XMLAdapter implements IAdapter
 {
 	public function proceed(string $s)
 	{
